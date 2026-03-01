@@ -1,0 +1,20 @@
+{
+  "name": "ISHAN-X BETA",
+  "short_name": "ISHAN-X BETA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "https://files.catbox.moe/65rem4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://files.catbox.moe/65rem4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
